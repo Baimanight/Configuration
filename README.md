@@ -1,5 +1,4 @@
-# Configuration
-Tool configuration (stored and shared)
+#Tool configuration (stored and shared)
 
 ---
 
